@@ -1,0 +1,4569 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Informacion>
+  <nombre_lugar>Campings y fincas particulares</nombre_lugar>
+  <nombre_sitio>Valencia / València</nombre_sitio>
+  <anyo>2024</anyo>
+  <tipo_sitio>
+    <campings>
+      <cantidad>1450995</cantidad>
+      <porcentaje>76.66</porcentaje>
+    </campings>
+    <fincas>
+      <cantidad>11</cantidad>
+      <porcentaje>2.66</porcentaje>
+    </fincas>
+  </tipo_sitio>
+  <listado>
+    <numero_campings>5000</numero_campings>
+    <numero_fincas>11</numero_fincas>
+    <Camping>
+      <cp>03130</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>121</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CR Santa Pola - Elx Km. 11</direccion>
+      <email>info@campingbahiasantapola.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>04/06/1965</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SANTA POLA</municipio>
+      <nombre>BAHIA DE SANTA POLA</nombre>
+      <num_bungalos>11</num_bungalos>
+      <num_parcelas>457</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>49</plaza_bungalos>
+      <plazas>1387</plazas>
+      <plazas_parcelas>1338</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000004-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+00 34 965 411 012</telefono>
+      <web>https://www.campingbahiasantapola.com</web>
+    </Camping>
+    <Camping>
+      <cp>03130</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>121</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C Los Electricistas (Pol.Industrial 2) 14</direccion>
+      <email>camperareasantapola@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/05/2018</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SANTA POLA</municipio>
+      <nombre>SANTA POLA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>23</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>69</plazas>
+      <plazas_parcelas>69</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000110-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>691137174</telefono>
+      <web>http://campingsantapolacaravanas.es</web>
+    </Camping>
+    <Camping>
+      <cp>03140</cp>
+      <categoria>CINCO ESTRELLAS</categoria>
+      <cod_categoria>5e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>076</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CR N-332, KM. 73.4</direccion>
+      <email>reservas@alannia.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>06/10/1997</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>GUARDAMAR DEL SEGURA</municipio>
+      <nombre>ALANNIA GUARDAMAR</nombre>
+      <num_bungalos>124</num_bungalos>
+      <num_parcelas>213</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>597</plaza_bungalos>
+      <plazas>864</plazas>
+      <plazas_parcelas>267</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000077-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965484945</telefono>
+      <web>http://www.alanniaresorts.com</web>
+    </Camping>
+    <Camping>
+      <cp>03140</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>076</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CR Cartagena - Alicante km.70,5</direccion>
+      <email>admin@campingpalmmar.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>10/09/1981</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>GUARDAMAR DEL SEGURA</municipio>
+      <nombre>PALM-MAR</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>177</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>559</plazas>
+      <plazas_parcelas>531</plazas_parcelas>
+      <plazas_libre_acampada>28</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000051-A</signatura>
+      <sup_libre_acampada>560</sup_libre_acampada>
+      <telefono>965728856</telefono>
+      <web>http://www.campingpalmmar.com</web>
+    </Camping>
+    <Camping>
+      <cp>03177</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>118</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C MAR CANTÁBRICO 7</direccion>
+      <email>sanfulpark@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>24/07/2012</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SAN FULGENCIO</municipio>
+      <nombre>CAMPER PARK SAN FULGENCIO</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>58</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>174</plazas>
+      <plazas_parcelas>174</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000090-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>966725317</telefono>
+      <web>camperparksanfulgencio.com</web>
+    </Camping>
+    <Camping>
+      <cp>03177</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>118</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>Mar Adriático, 1</direccion>
+      <email>oasisminicamping@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>16/06/2024</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SAN FULGENCIO</municipio>
+      <nombre>MINI CAMPING OASIS</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>14</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>42</plazas>
+      <plazas_parcelas>42</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000126-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>603538670</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>03177</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>118</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>POLÍGONO 6 PARCELA 70 Y 71 PARAJE EL MOLAR</direccion>
+      <email>RECEPCION@RSCGRUPOASESOR.COM</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>05/10/2023</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SAN FULGENCIO</municipio>
+      <nombre>DUNAS Y MAR</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>51</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>153</plazas>
+      <plazas_parcelas>153</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000123-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>966160712</telefono>
+      <web>WWW.DUNASYMAR.ES</web>
+    </Camping>
+    <Camping>
+      <cp>03186</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>133</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CR CV-95,  S.Miguel de Salinas-Torrevieja</direccion>
+      <email>camping@campingflorantilles.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>21/01/1994</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>TORREVIEJA</municipio>
+      <nombre>FLORANTILLES</nombre>
+      <num_bungalos>97</num_bungalos>
+      <num_parcelas>264</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>388</plaza_bungalos>
+      <plazas>889</plazas>
+      <plazas_parcelas>501</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000072-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965720456</telefono>
+      <web>http://www.campingflorantilles.com</web>
+    </Camping>
+    <Camping>
+      <cp>03191</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>902</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV Comunitat Valenciana 157</direccion>
+      <email>info@campinglomonte.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>01/06/2011</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PILAR DE LA HORADADA</municipio>
+      <nombre>LO MONTE</nombre>
+      <num_bungalos>42</num_bungalos>
+      <num_parcelas>249</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>168</plaza_bungalos>
+      <plazas>789</plazas>
+      <plazas_parcelas>621</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000087-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+34 966 766 782</telefono>
+      <web>https://www.campinglomonte.com</web>
+    </Camping>
+    <Camping>
+      <cp>03194</cp>
+      <categoria>CINCO ESTRELLAS</categoria>
+      <cod_categoria>5e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>065</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV de la Alegría (La Marina) s/n</direccion>
+      <email>cristinagomis@campinglamarina.com cristinagomis@lamarinaresort.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>11/09/1981</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ELX/ELCHE</municipio>
+      <nombre>LA MARINA CAMPING &amp; RESORT</nombre>
+      <num_bungalos>145</num_bungalos>
+      <num_parcelas>598</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>723</plaza_bungalos>
+      <plazas>2082</plazas>
+      <plazas_parcelas>1359</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000061-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965419200</telefono>
+      <web>https://www.lamarinaresorts.com/</web>
+    </Camping>
+    <Camping>
+      <cp>03194</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>065</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PARTIDA LA MARINA, POL. 0, 55 A</direccion>
+      <email>ccandela-jimenez@icali.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>02/03/2025</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ELX/ELCHE</municipio>
+      <nombre>BLUE CAMPARK, S.L.</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>72</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>216</plazas>
+      <plazas_parcelas>216</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000127-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>692458190</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>03330</cp>
+      <categoria>CINCO ESTRELLAS</categoria>
+      <cod_categoria>5e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>059</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PD  AP7. Salida 730 (Catral-Crevillent)</direccion>
+      <email>reservas@alannia.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>08/11/2011</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CREVILLENT</municipio>
+      <nombre>ALANNIA COSTABLANCA</nombre>
+      <num_bungalos>342</num_bungalos>
+      <num_parcelas>1421</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>1625</plaza_bungalos>
+      <plazas>4862</plazas>
+      <plazas_parcelas>3237</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000088-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+34 965 48 49 45</telefono>
+      <web>https://alanniaresorts.com/es/resorts/alannia-costa-blanca</web>
+    </Camping>
+    <Camping>
+      <cp>03330</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>059</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CR N-340 Alicante-Murcia, C/Gutierrez de Cárdenas, 30 km.708</direccion>
+      <email>laspalmeras@laspalmeras-sl.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>01/08/1983</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CREVILLENT</municipio>
+      <nombre>LAS PALMERAS RESORT</nombre>
+      <num_bungalos>15</num_bungalos>
+      <num_parcelas>61</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>60</plaza_bungalos>
+      <plazas>198</plazas>
+      <plazas_parcelas>138</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000064-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>660 061 982</telefono>
+      <web>https://laspalmerasresort.com/camping</web>
+    </Camping>
+    <Camping>
+      <cp>03380</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>044</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C Cañada de Andrea 100</direccion>
+      <email>info@campinglapedrera.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>17/05/2010</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BIGASTRO</municipio>
+      <nombre>LA PEDRERA</nombre>
+      <num_bungalos>31</num_bungalos>
+      <num_parcelas>76</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>125</plaza_bungalos>
+      <plazas>260</plazas>
+      <plazas_parcelas>135</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000086-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>691 398 501</telefono>
+      <web>https://www.campinglapedrera.com</web>
+    </Camping>
+    <Camping>
+      <cp>03400</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>140</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PE Cabezo de la Virgen, 60 Las Virtudes</direccion>
+      <email>alicante@nomadingcamp.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>24/05/2018</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VILLENA</municipio>
+      <nombre>NOMADING CAMP ALICANTE</nombre>
+      <num_bungalos>16</num_bungalos>
+      <num_parcelas>27</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>32</plaza_bungalos>
+      <plazas>83</plazas>
+      <plazas_parcelas>33</plazas_parcelas>
+      <plazas_libre_acampada>18</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000111-A</signatura>
+      <sup_libre_acampada>880</sup_libre_acampada>
+      <telefono>(+34) 608 856 016</telefono>
+      <web>https://www.nomadingcamp.com/hotel-burbuja-alicante</web>
+    </Camping>
+    <Camping>
+      <cp>03500</cp>
+      <categoria>CINCO ESTRELLAS</categoria>
+      <cod_categoria>5e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PD Cabut 25</direccion>
+      <email>steve@almafracamping.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/06/2007</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>ALMAFRÁ</nombre>
+      <num_bungalos>39</num_bungalos>
+      <num_parcelas>205</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>168</plaza_bungalos>
+      <plazas>666</plazas>
+      <plazas_parcelas>498</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000084-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965889075</telefono>
+      <web>campingalmafra.es</web>
+    </Camping>
+    <Camping>
+      <cp>03502</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C Foia del Verdader 1</direccion>
+      <email>reservas@magicnatura.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>10/06/2015</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>MAGIC NATURA LODGE RESORT</nombre>
+      <num_bungalos>350</num_bungalos>
+      <num_parcelas>350</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>1400</plaza_bungalos>
+      <plazas>1400</plazas>
+      <plazas_parcelas>0</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000098-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>(+34) 865 662 225</telefono>
+      <web>http://www.magicnatura.com</web>
+    </Camping>
+    <Camping>
+      <cp>03503</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV Comunitat Valenciana S.N</direccion>
+      <email>info@campingbenisol.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/02/1982</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>BENISOL</nombre>
+      <num_bungalos>45</num_bungalos>
+      <num_parcelas>292</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>135</plaza_bungalos>
+      <plazas>876</plazas>
+      <plazas_parcelas>741</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000035-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965851673</telefono>
+      <web>campingbenisol.com</web>
+    </Camping>
+    <Camping>
+      <cp>03503</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV Dr. Severo Ochoa 44</direccion>
+      <email>info@campingarenablanca.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>08/04/1987</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>ARENA BLANCA</nombre>
+      <num_bungalos>60</num_bungalos>
+      <num_parcelas>161</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>239</plaza_bungalos>
+      <plazas>542</plazas>
+      <plazas_parcelas>303</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000066-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965861889</telefono>
+      <web>http://www.campingarenablanca.com</web>
+    </Camping>
+    <Camping>
+      <cp>03503</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CM Viejo del Albir s/n.</direccion>
+      <email>reservas@magicrobinhood.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>03/05/2000</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>MAGIC ROBIN HOOD SPORTS, WATERPARK &amp; MEDIEVAL LODGE</nombre>
+      <num_bungalos>470</num_bungalos>
+      <num_parcelas>470</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>2200</plaza_bungalos>
+      <plazas>2200</plazas>
+      <plazas_parcelas>0</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000079-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>(+34) 966 867 139</telefono>
+      <web>https://www.magicrobinhood.com</web>
+    </Camping>
+    <Camping>
+      <cp>03503</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV Dr. Severo Ochoa 11</direccion>
+      <email>info@campinglatorreta.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>29/09/1970</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>LA TORRETA</nombre>
+      <num_bungalos>23</num_bungalos>
+      <num_parcelas>247</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>92</plaza_bungalos>
+      <plazas>764</plazas>
+      <plazas_parcelas>672</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000042-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965854668</telefono>
+      <web>https://www.campinglatorreta.com</web>
+    </Camping>
+    <Camping>
+      <cp>03503</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV Dr. Severo Ochoa S.N</direccion>
+      <email>info@campingbenidorm.net</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>18/01/1968</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>BENIDORM</nombre>
+      <num_bungalos>24</num_bungalos>
+      <num_parcelas>83</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>71</plaza_bungalos>
+      <plazas>258</plazas>
+      <plazas_parcelas>177</plazas_parcelas>
+      <plazas_libre_acampada>10</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000016-A</signatura>
+      <sup_libre_acampada>180.96</sup_libre_acampada>
+      <telefono>965860011</telefono>
+      <web>http://www.campingbenidorm.net/</web>
+    </Camping>
+    <Camping>
+      <cp>03503</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PD MEDIA LEGUA POLIGONO 17 PARCELA 7 ,166,167</direccion>
+      <email>lamedialegua@sun-confort.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>27/04/2024</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>LA MEDIA LEGUA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>150</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>450</plazas>
+      <plazas_parcelas>450</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000125-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>96 623 01 03</telefono>
+      <web>https://lamedialeguacamping.com/es</web>
+    </Camping>
+    <Camping>
+      <cp>03503</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV Av. Comunidad Valenciana. Camí de L'Armanello s/n</direccion>
+      <email>info@campingarmanello.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>31/12/1971</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>ARMANELLO</nombre>
+      <num_bungalos>42</num_bungalos>
+      <num_parcelas>240</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>22</plaza_bungalos>
+      <plazas>490</plazas>
+      <plazas_parcelas>468</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000049-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>96 585 31 90</telefono>
+      <web>https://www.campingarmanello.com/</web>
+    </Camping>
+    <Camping>
+      <cp>03503</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV Bernat de Sarrià 13</direccion>
+      <email>info@camping-villasol.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/02/1990</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>VILLASOL</nombre>
+      <num_bungalos>43</num_bungalos>
+      <num_parcelas>332</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>198</plaza_bungalos>
+      <plazas>1120</plazas>
+      <plazas_parcelas>867</plazas_parcelas>
+      <plazas_libre_acampada>55</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000069-A</signatura>
+      <sup_libre_acampada>620</sup_libre_acampada>
+      <telefono>+34 965 850 422</telefono>
+      <web>https://www.camping-villasol.com</web>
+    </Camping>
+    <Camping>
+      <cp>03503</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV DR. SEVERO OCHOA S.N</direccion>
+      <email>info@campingraco.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/09/1997</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>EL RACO</nombre>
+      <num_bungalos>4</num_bungalos>
+      <num_parcelas>654</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>20</plaza_bungalos>
+      <plazas>1970</plazas>
+      <plazas_parcelas>1950</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000076-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965868552</telefono>
+      <web>http://www.campingraco.com</web>
+    </Camping>
+    <Camping>
+      <cp>03503</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>031</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CR del Albir, km. 0'300</direccion>
+      <email>camping@campingvillamar.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>20/03/2003</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENIDORM</municipio>
+      <nombre>VILLAMAR</nombre>
+      <num_bungalos>3</num_bungalos>
+      <num_parcelas>1090</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>13</plaza_bungalos>
+      <plazas>3274</plazas>
+      <plazas_parcelas>3261</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000082-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>966 811 255</telefono>
+      <web>www.campingvillamar.com</web>
+    </Camping>
+    <Camping>
+      <cp>03509</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>069</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C Beniarres 6</direccion>
+      <email>reservas@camperaliafinestrat.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>11/01/2023</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>FINESTRAT</municipio>
+      <nombre>CAMPERALIA FINESTRAT</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>86</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>258</plazas>
+      <plazas_parcelas>258</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000122-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>693005621</telefono>
+      <web>https://www.camperaliafinestrat.com/</web>
+    </Camping>
+    <Camping>
+      <cp>03509</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>069</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PD TAPIADA MARRAIX 57</direccion>
+      <email>campingpuigcampana@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>28/05/2015</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>FINESTRAT</municipio>
+      <nombre>PUIG CAMPANA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>43</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>155</plazas>
+      <plazas_parcelas>129</plazas_parcelas>
+      <plazas_libre_acampada>26</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000097-A</signatura>
+      <sup_libre_acampada>1013</sup_libre_acampada>
+      <telefono>965 878 584</telefono>
+      <web>http://campingpuigcampana.com</web>
+    </Camping>
+    <Camping>
+      <cp>03510</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>048</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PD ALGAR -  PDA. TORRETA-SEGARRA 146</direccion>
+      <email>info@fontsdelalgar.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>28/03/2022</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CALLOSA D'EN SARRIÀ</municipio>
+      <nombre>FONTS DE L'ALGAR</nombre>
+      <num_bungalos>10</num_bungalos>
+      <num_parcelas>42</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>39</plaza_bungalos>
+      <plazas>165</plazas>
+      <plazas_parcelas>96</plazas_parcelas>
+      <plazas_libre_acampada>30</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000119-A</signatura>
+      <sup_libre_acampada>994</sup_libre_acampada>
+      <telefono>608742571</telefono>
+      <web>http://fontsdelalgar.com</web>
+    </Camping>
+    <Camping>
+      <cp>03550</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>050</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C DOCTOR SEVERO OCHOA 39</direccion>
+      <email>info@campingeljardin.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>21/02/2002</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CAMPELLO, EL</municipio>
+      <nombre>EL JARDIN</nombre>
+      <num_bungalos>11</num_bungalos>
+      <num_parcelas>133</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>60</plaza_bungalos>
+      <plazas>424</plazas>
+      <plazas_parcelas>366</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000080-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965657580</telefono>
+      <web>http://www.campingeljardin.com</web>
+    </Camping>
+    <Camping>
+      <cp>03560</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>050</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV Fabraquer 14</direccion>
+      <email>info@camperarea7.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>19/04/2017</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CAMPELLO, EL</municipio>
+      <nombre>CAMPER AREA 7</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>50</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>150</plazas>
+      <plazas_parcelas>150</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000104-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>666106389</telefono>
+      <web>https://www.camperarea7.com</web>
+    </Camping>
+    <Camping>
+      <cp>03560</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>050</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C ANCORES 25-29</direccion>
+      <email>info@areanaturplaya.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>17/11/2020</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CAMPELLO, EL</municipio>
+      <nombre>AREA NATUR PLAYAMUCHAVISTA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>70</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>210</plazas>
+      <plazas_parcelas>210</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000116-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>618450066</telefono>
+      <web>www.areanaturplaya.com</web>
+    </Camping>
+    <Camping>
+      <cp>03560</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>050</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C Juan de laCierva 8</direccion>
+      <email>info@camperareacampellobeach.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>03/02/2015</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CAMPELLO, EL</municipio>
+      <nombre>CAMPER AREA CAMPELLO BEACH</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>40</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>120</plazas>
+      <plazas_parcelas>120</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000094-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>683612722</telefono>
+      <web>http://camperareacampellobeach.com</web>
+    </Camping>
+    <Camping>
+      <cp>03560</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>050</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C Convento, 143  (Nacional 332, Km. 120.5)</direccion>
+      <email>info@campingcostablanca.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>08/08/1968</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CAMPELLO, EL</municipio>
+      <nombre>COSTA BLANCA</nombre>
+      <num_bungalos>33</num_bungalos>
+      <num_parcelas>85</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>147</plaza_bungalos>
+      <plazas>323</plazas>
+      <plazas_parcelas>156</plazas_parcelas>
+      <plazas_libre_acampada>20</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000028-A</signatura>
+      <sup_libre_acampada>330</sup_libre_acampada>
+      <telefono>965630670</telefono>
+      <web>http://www.campingcostablanca.com</web>
+    </Camping>
+    <Camping>
+      <cp>03560</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>050</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CM REAL DE VILLAJOYOSA 35</direccion>
+      <email>info@campingbonsol.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>03/10/1994</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CAMPELLO, EL</municipio>
+      <nombre>BON SOL</nombre>
+      <num_bungalos>6</num_bungalos>
+      <num_parcelas>47</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>16</plaza_bungalos>
+      <plazas>139</plazas>
+      <plazas_parcelas>123</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000073-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>626219880</telefono>
+      <web>http://www.campingbonsol.es/</web>
+    </Camping>
+    <Camping>
+      <cp>03570</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>139</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CR N-332, KM. 136-PARTIDA EL PARAISO 66</direccion>
+      <email>info@campingplayaparaiso.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>13/07/1965</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VILA JOIOSA, LA/VILLAJOYOSA</municipio>
+      <nombre>PLAYA PARAÍSO</nombre>
+      <num_bungalos>6</num_bungalos>
+      <num_parcelas>84</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>24</plaza_bungalos>
+      <plazas>258</plazas>
+      <plazas_parcelas>234</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000006-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>966851838</telefono>
+      <web>http://www.campingplayaparaiso.com/</web>
+    </Camping>
+    <Camping>
+      <cp>03570</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>139</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CR CV-759, km 1 Partida Secanet</direccion>
+      <email>ave@campingalicanteimperium.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>05/07/2016</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VILA JOIOSA, LA/VILLAJOYOSA</municipio>
+      <nombre>ALICANTE IMPERIUM</nombre>
+      <num_bungalos>14</num_bungalos>
+      <num_parcelas>159</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>54</plaza_bungalos>
+      <plazas>489</plazas>
+      <plazas_parcelas>435</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000100-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+34 96 506 32 32</telefono>
+      <web>https://www.campingalicanteimperium.com</web>
+    </Camping>
+    <Camping>
+      <cp>03570</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>139</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PD EL TORRES NORTE, Playa El Torres</direccion>
+      <email>info@campingeltorres.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>17/10/2014</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VILA JOIOSA, LA/VILLAJOYOSA</municipio>
+      <nombre>EL TORRES</nombre>
+      <num_bungalos>11</num_bungalos>
+      <num_parcelas>119</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>66</plaza_bungalos>
+      <plazas>390</plazas>
+      <plazas_parcelas>324</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000093-A</signatura>
+      <sup_libre_acampada>3946</sup_libre_acampada>
+      <telefono>+34 965 995 077</telefono>
+      <web>https://campingeltorres.com</web>
+    </Camping>
+    <Camping>
+      <cp>03580</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>011</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CM DELS ALGUERS. POLIGONO 4 PARCELA 145 S/N</direccion>
+      <email>info@orangegrovecamperpark.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>02/07/2020</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALFÀS DEL PI, L'</municipio>
+      <nombre>ORANGE GROVE</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>26</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>78</plazas>
+      <plazas_parcelas>78</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000114-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>609656049</telefono>
+      <web>http://www.orangegrovecamperpark.com</web>
+    </Camping>
+    <Camping>
+      <cp>03581</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>011</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C SERRA GELADA S/N</direccion>
+      <email>lacolinabeach@hotmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>29/09/2016</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALFÀS DEL PI, L'</municipio>
+      <nombre>LA COLINA</nombre>
+      <num_bungalos>1</num_bungalos>
+      <num_parcelas>150</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>2</plaza_bungalos>
+      <plazas>449</plazas>
+      <plazas_parcelas>447</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000102-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>966865903</telefono>
+      <web>http://campinglacolina.com</web>
+    </Camping>
+    <Camping>
+      <cp>03590</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>018</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CR ALBIR 6</direccion>
+      <email>info@sanantonioaltea.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>19/12/2011</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALTEA</municipio>
+      <nombre>SAN ANTONIO</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>52</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>156</plazas>
+      <plazas_parcelas>156</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000089-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>609726355</telefono>
+      <web>http://sanantonioaltea.com</web>
+    </Camping>
+    <Camping>
+      <cp>03590</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>018</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PY ALBIR S/N</direccion>
+      <email>capblanch@ctv.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>11/11/1988</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALTEA</municipio>
+      <nombre>CAP BLANCH</nombre>
+      <num_bungalos>22</num_bungalos>
+      <num_parcelas>333</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>66</plaza_bungalos>
+      <plazas>999</plazas>
+      <plazas_parcelas>933</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000068-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965845946</telefono>
+      <web>http://www.camping-capblanch.com</web>
+    </Camping>
+    <Camping>
+      <cp>03590</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>018</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PD Cap Blanch 11</direccion>
+      <email>campingsantaclaraaltea@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>08/04/2016</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALTEA</municipio>
+      <nombre>SANTA CLARA</nombre>
+      <num_bungalos>3</num_bungalos>
+      <num_parcelas>19</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>6</plaza_bungalos>
+      <plazas>66</plazas>
+      <plazas_parcelas>48</plazas_parcelas>
+      <plazas_libre_acampada>12</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000099-A</signatura>
+      <sup_libre_acampada>368</sup_libre_acampada>
+      <telefono>(+34) 965 842 356</telefono>
+      <web>http://www.campingsantaclaraaltea.com</web>
+    </Camping>
+    <Camping>
+      <cp>03700</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>063</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PD Deveses 32</direccion>
+      <email>losllanos@losllanos.net</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>08/11/1968</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>DÉNIA</municipio>
+      <nombre>LOS LLANOS</nombre>
+      <num_bungalos>60</num_bungalos>
+      <num_parcelas>164</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>294</plaza_bungalos>
+      <plazas>606</plazas>
+      <plazas_parcelas>312</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000034-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965755188</telefono>
+      <web>http://www.losllanos.net</web>
+    </Camping>
+    <Camping>
+      <cp>03700</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>063</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PDA./ LAS ROTAS - CAMÍ DE LA RACONÀ, 16</direccion>
+      <email>lospinosdenia@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>10/05/1983</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>DÉNIA</municipio>
+      <nombre>LOS PINOS</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>108</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>354</plazas>
+      <plazas_parcelas>324</plazas_parcelas>
+      <plazas_libre_acampada>30</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000019-A</signatura>
+      <sup_libre_acampada>743</sup_libre_acampada>
+      <telefono>965782698</telefono>
+      <web>www.lospinosdenia.com</web>
+    </Camping>
+    <Camping>
+      <cp>03710</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>047</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C Eslovenia 3</direccion>
+      <email>info@campingcalpemar.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/07/2009</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CALP</municipio>
+      <nombre>CALPEMAR</nombre>
+      <num_bungalos>2</num_bungalos>
+      <num_parcelas>109</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>8</plaza_bungalos>
+      <plazas>329</plazas>
+      <plazas_parcelas>321</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000085-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965875576</telefono>
+      <web>http://www.campingcalpemar.com</web>
+    </Camping>
+    <Camping>
+      <cp>03710</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>047</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C Estonia 3 - 5</direccion>
+      <email>info@campingsoldecalpe.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>18/04/2017</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CALP</municipio>
+      <nombre>SOL DE CALPE AUSTRAL</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>66</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>198</plazas>
+      <plazas_parcelas>198</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000103-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965832618</telefono>
+      <web>http://campingsoldecalpe.com</web>
+    </Camping>
+    <Camping>
+      <cp>03710</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>047</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PD COLARI 7-E</direccion>
+      <email>info@mediterraneocamper.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/02/2015</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CALP</municipio>
+      <nombre>MEDITERRANEO</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>72</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>216</plazas>
+      <plazas_parcelas>216</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000095-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965995811</telefono>
+      <web>http://mediterraneocamper.com</web>
+    </Camping>
+    <Camping>
+      <cp>03710</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>047</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>PD Marisol Park 43-A</direccion>
+      <email>info@marysolcampigpark.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>24/08/2022</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CALP</municipio>
+      <nombre>MARYSOL PARK</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>68</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>204</plazas>
+      <plazas_parcelas>204</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000121-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>601501665</telefono>
+      <web>http://marysolcampingpark.com</web>
+    </Camping>
+    <Camping>
+      <cp>03710</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>047</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>Urbanización Los Almendros, 9-A</direccion>
+      <email>calpe@paraisocamper.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>20/04/2015</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CALP</municipio>
+      <nombre>PARAISO CAMPER</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>61</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>183</plazas>
+      <plazas_parcelas>183</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000096-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965875348</telefono>
+      <web>www. paraisocamper.com</web>
+    </Camping>
+    <Camping>
+      <cp>03710</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>047</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>AV JAUME  I  EL CONQUERIDOR 32-E-1</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>10/10/1984</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CALP</municipio>
+      <nombre>LA MERCED</nombre>
+      <num_bungalos>3</num_bungalos>
+      <num_parcelas>81</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>12</plaza_bungalos>
+      <plazas>283</plazas>
+      <plazas_parcelas>234</plazas_parcelas>
+      <plazas_libre_acampada>37</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000031-A</signatura>
+      <sup_libre_acampada>729</sup_libre_acampada>
+      <telefono>965830097</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>03724</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>128</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CM DEL PAELLERO 50</direccion>
+      <email>campingmoraira@campingmoraira.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>10/07/1981</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>TEULADA</municipio>
+      <nombre>MORAIRA</nombre>
+      <num_bungalos>8</num_bungalos>
+      <num_parcelas>68</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>43</plaza_bungalos>
+      <plazas>283</plazas>
+      <plazas_parcelas>180</plazas_parcelas>
+      <plazas_libre_acampada>60</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000029-A</signatura>
+      <sup_libre_acampada>1135</sup_libre_acampada>
+      <telefono>965745249</telefono>
+      <web>http://www.campingmoraira.com</web>
+    </Camping>
+    <Camping>
+      <cp>03726</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>042</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C Los Olivos (URB. PP CDS MAR) 97</direccion>
+      <email>mediterranean@dreamseasurfcamp.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/02/2021</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>POBLE NOU DE BENITATXELL, EL/BENITACHELL</municipio>
+      <nombre>DREAMSEA MEDITERRANEAN CAMP</nombre>
+      <num_bungalos>21</num_bungalos>
+      <num_parcelas>21</num_parcelas>
+      <periodo>[Semana Santa]</periodo>
+      <plaza_bungalos>42</plaza_bungalos>
+      <plazas>42</plazas>
+      <plazas_parcelas>0</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000117-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>856620304</telefono>
+      <web>https://dreamseasurfcamp.com/mediterranean/</web>
+    </Camping>
+    <Camping>
+      <cp>03730</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>082</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CM DE LA FONTANA - APDO. CORREOS 83 2</direccion>
+      <email>info@camping-javea.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>09/03/1981</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>XÀBIA/JÁVEA</municipio>
+      <nombre>JAVEA</nombre>
+      <num_bungalos>21</num_bungalos>
+      <num_parcelas>212</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>82</plaza_bungalos>
+      <plazas>655</plazas>
+      <plazas_parcelas>573</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000059-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965791070</telefono>
+      <web>http://www.camping-javea.com</web>
+    </Camping>
+    <Camping>
+      <cp>03730</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>082</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CM ELS  MORERS - APDO CORREOS 55 15</direccion>
+      <email>naranjal@teleline.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>03/12/1984</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>XÀBIA/JÁVEA</municipio>
+      <nombre>EL NARANJAL</nombre>
+      <num_bungalos>66</num_bungalos>
+      <num_parcelas>179</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>290</plaza_bungalos>
+      <plazas>650</plazas>
+      <plazas_parcelas>339</plazas_parcelas>
+      <plazas_libre_acampada>21</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000065-A</signatura>
+      <sup_libre_acampada>440</sup_libre_acampada>
+      <telefono>965792989</telefono>
+      <web>http://www.campingelnaranjal.com</web>
+    </Camping>
+    <Camping>
+      <cp>03770</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>063</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CR MARINES RACONS 33</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>01/04/1981</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>DÉNIA</municipio>
+      <nombre>LOS PATOS</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>158</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>488</plazas>
+      <plazas_parcelas>474</plazas_parcelas>
+      <plazas_libre_acampada>14</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000060-A</signatura>
+      <sup_libre_acampada>300</sup_libre_acampada>
+      <telefono>965755293</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>03788</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>134</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>CM D'ANDON S.N</direccion>
+      <email>reserves@camping-lavall.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>10/08/1993</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VALL D'ALCALÀ, LA</municipio>
+      <nombre>LA VALL</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>59</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>177</plazas>
+      <plazas_parcelas>177</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000071-A</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>965514300</telefono>
+      <web>http://www.camping-lavall.com</web>
+    </Camping>
+    <Camping>
+      <cp>03791</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>137</cod_municipio>
+      <cod_provincia>03</cod_provincia>
+      <direccion>C Sant Antoni 24</direccion>
+      <email>info@campinglaguar.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>27/04/2006</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VALL DE LAGUAR, LA</municipio>
+      <nombre>VALL DE LAGUAR</nombre>
+      <num_bungalos>11</num_bungalos>
+      <num_parcelas>67</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>48</plaza_bungalos>
+      <plazas>247</plazas>
+      <plazas_parcelas>168</plazas_parcelas>
+      <plazas_libre_acampada>31</plazas_libre_acampada>
+      <provincia>ALICANTE/ALACANT</provincia>
+      <signatura>CV-CAM000083-A</signatura>
+      <sup_libre_acampada>683</sup_libre_acampada>
+      <telefono>96 558 45 90</telefono>
+      <web>http://www.campinglaguar.com</web>
+    </Camping>
+    <Camping>
+      <cp>12132</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>001</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>POLIGONO 15, PARCELA 702 RIBASALS</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>10/09/2024</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ATZENETA DEL MAESTRAT</municipio>
+      <nombre>EL MOLÍ GLAMPING</nombre>
+      <num_bungalos>3</num_bungalos>
+      <num_parcelas>8</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>6</plaza_bungalos>
+      <plazas>27</plazas>
+      <plazas_parcelas>15</plazas_parcelas>
+      <plazas_libre_acampada>6</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000086-CS</signatura>
+      <sup_libre_acampada>296</sup_libre_acampada>
+      <telefono>621680316</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>12150</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>129</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR VILLAFRANCA-TERUEL. PARTIDA VEGAS TEJERIA KM. 0'7</direccion>
+      <email>xavivila86@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>14/07/1997</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VILAFRANCA/VILLAFRANCA DEL CID</municipio>
+      <nombre>LLOSAR</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>58</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>204</plazas>
+      <plazas_parcelas>174</plazas_parcelas>
+      <plazas_libre_acampada>30</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000068-CS</signatura>
+      <sup_libre_acampada>745</sup_libre_acampada>
+      <telefono>689029264</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>12179</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>111</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>PARAJE LA VALLTORTA, Plá de l'Om, s/n</direccion>
+      <email>info@zielodelevante.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>14/05/1993</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>TÍRIG</municipio>
+      <nombre>ZIELO DE LEVANTE</nombre>
+      <num_bungalos>12</num_bungalos>
+      <num_parcelas>18</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>32</plaza_bungalos>
+      <plazas>50</plazas>
+      <plazas_parcelas>18</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000062-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+34 630 949 950</telefono>
+      <web>https://www.zielodelevante.com/es</web>
+    </Camping>
+    <Camping>
+      <cp>12180</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>033</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AV La Ratlla 7</direccion>
+      <email>info@campingriberamar.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/03/1993</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CABANES</municipio>
+      <nombre>RIBERAMAR</nombre>
+      <num_bungalos>35</num_bungalos>
+      <num_parcelas>237</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>138</plaza_bungalos>
+      <plazas>744</plazas>
+      <plazas_parcelas>606</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000061-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964319762</telefono>
+      <web>http://www.campingriberamar.com</web>
+    </Camping>
+    <Camping>
+      <cp>12192</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>128</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>C REI EN JAUME I 297</direccion>
+      <email>camperareavilafames@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>28/04/2023</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VILAFAMÉS</municipio>
+      <nombre>CAMPER AREA VILAFAMES</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>20</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>60</plazas>
+      <plazas_parcelas>60</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000084-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>633646628</telefono>
+      <web>http://www.camperaereavilafames.com</web>
+    </Camping>
+    <Camping>
+      <cp>12320</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>099</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CV 136 Km 1.5, Sant Jordi, Cervera, 1.5</direccion>
+      <email>info@maestratpark.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>11/07/2017</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SANT JORDI/SAN JORGE</municipio>
+      <nombre>MAESTRAT PARK</nombre>
+      <num_bungalos>48</num_bungalos>
+      <num_parcelas>107</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>194</plaza_bungalos>
+      <plazas>371</plazas>
+      <plazas_parcelas>177</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000079-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964 412 262</telefono>
+      <web>https://es.maestratpark.es</web>
+    </Camping>
+    <Camping>
+      <cp>12400</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>104</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>C Monte San Blas S.N</direccion>
+      <email>info@complejosanblas.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>27/07/1989</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SEGORBE</municipio>
+      <nombre>COMPLEJO SAN BLAS</nombre>
+      <num_bungalos>3</num_bungalos>
+      <num_parcelas>70</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>12</plaza_bungalos>
+      <plazas>213</plazas>
+      <plazas_parcelas>201</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000053-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+34 964 710 784</telefono>
+      <web>http://www.complejosanblas.com</web>
+    </Camping>
+    <Camping>
+      <cp>12410</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>012</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>PARQUE MUNICIPAL S.N</direccion>
+      <email>camping@infoaltura.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/07/1983</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALTURA</municipio>
+      <nombre>CAMPING MUNICIPAL</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>108</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>336</plazas>
+      <plazas_parcelas>324</plazas_parcelas>
+      <plazas_libre_acampada>12</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000044-CS</signatura>
+      <sup_libre_acampada>300</sup_libre_acampada>
+      <telefono>964147089</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>12430</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>022</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>Partida Huerta Martín, s/n, Los Cloticos</direccion>
+      <email>info@campingloscloticos.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>05/10/1993</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BEJÍS</municipio>
+      <nombre>LOS CLOTICOS</nombre>
+      <num_bungalos>12</num_bungalos>
+      <num_parcelas>89</num_parcelas>
+      <periodo>[Verano]</periodo>
+      <plaza_bungalos>57</plaza_bungalos>
+      <plazas>288</plazas>
+      <plazas_parcelas>231</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000063-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964 764 015</telefono>
+      <web>http://www.campingloscloticos.es</web>
+    </Camping>
+    <Camping>
+      <cp>12448</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>079</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CAMINO CARRERA SN</direccion>
+      <email>mtodoli@hotmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>14/03/2025</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>MONTANEJOS</municipio>
+      <nombre>CAMPING LA GRANJA DE MONTANEJOS</nombre>
+      <num_bungalos>19</num_bungalos>
+      <num_parcelas>67</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>75</plaza_bungalos>
+      <plazas>265</plazas>
+      <plazas_parcelas>144</plazas_parcelas>
+      <plazas_libre_acampada>46</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000087-CS</signatura>
+      <sup_libre_acampada>562.69</sup_libre_acampada>
+      <telefono>652226000</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>12460</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>140</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CM BENABAL (Partida de las Quinchas) S.N</direccion>
+      <email>info@campingvilladeviver.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>20/12/1981</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VIVER</municipio>
+      <nombre>VILLA DE VIVER</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>62</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>198</plazas>
+      <plazas_parcelas>186</plazas_parcelas>
+      <plazas_libre_acampada>12</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000041-CS</signatura>
+      <sup_libre_acampada>280</sup_libre_acampada>
+      <telefono>964 14 13 34</telefono>
+      <web>http://www.campingvilladeviver.es</web>
+    </Camping>
+    <Camping>
+      <cp>12470</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>081</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR CV-213  NAVAJAS km. 1</direccion>
+      <email>reservas@campingaltomira.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/06/1997</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>NAVAJAS</municipio>
+      <nombre>ALTOMIRA</nombre>
+      <num_bungalos>22</num_bungalos>
+      <num_parcelas>112</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>114</plaza_bungalos>
+      <plazas>505</plazas>
+      <plazas_parcelas>270</plazas_parcelas>
+      <plazas_libre_acampada>121</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000067-CS</signatura>
+      <sup_libre_acampada>2892</sup_libre_acampada>
+      <telefono>964713211</telefono>
+      <web>http://www.campingaltomira.com</web>
+    </Camping>
+    <Camping>
+      <cp>12500</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>138</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CTRA. N-340, KM. 1054</direccion>
+      <email>info@campingvinaros.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>28/07/2004</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VINARÒS</municipio>
+      <nombre>VINARÒS</nombre>
+      <num_bungalos>24</num_bungalos>
+      <num_parcelas>181</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>70</plaza_bungalos>
+      <plazas>541</plazas>
+      <plazas_parcelas>471</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000074-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964402424</telefono>
+      <web>http://www.campingvinaros.com</web>
+    </Camping>
+    <Camping>
+      <cp>12500</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>138</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>PD  LAS SALINAS 41</direccion>
+      <email>aurea-alonso@hotmail.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>14/01/1983</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VINARÒS</municipio>
+      <nombre>CALA PUNTAL</nombre>
+      <num_bungalos>6</num_bungalos>
+      <num_parcelas>81</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>32</plaza_bungalos>
+      <plazas>249</plazas>
+      <plazas_parcelas>225</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000043-CS</signatura>
+      <sup_libre_acampada>1000</sup_libre_acampada>
+      <telefono>964401729</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>12520</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>082</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CM SARRATELLES S/N</direccion>
+      <email>franroblessanchez.23@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>01/06/1992</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>NULES</municipio>
+      <nombre>COSTA DE LEVANTE</nombre>
+      <num_bungalos>39</num_bungalos>
+      <num_parcelas>121</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>213</plaza_bungalos>
+      <plazas>532</plazas>
+      <plazas_parcelas>246</plazas_parcelas>
+      <plazas_libre_acampada>73</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000060-CS</signatura>
+      <sup_libre_acampada>1204</sup_libre_acampada>
+      <telefono>658511507</telefono>
+      <web>http://www.campingcostadelevante.es</web>
+    </Camping>
+    <Camping>
+      <cp>12560</cp>
+      <categoria>CINCO ESTRELLAS</categoria>
+      <cod_categoria>5e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>028</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AV BARCELONA 47</direccion>
+      <email>info@bonterraresort.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>27/04/1968</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENICÀSSIM/BENICASIM</municipio>
+      <nombre>BONTERRA</nombre>
+      <num_bungalos>56</num_bungalos>
+      <num_parcelas>344</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>328</plaza_bungalos>
+      <plazas>1192</plazas>
+      <plazas_parcelas>864</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000015-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964300007</telefono>
+      <web>https://bonterraresort.com/</web>
+    </Camping>
+    <Camping>
+      <cp>12560</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>028</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AV GRAN AVENIDA 295</direccion>
+      <email>info@campingtauro.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>21/08/1974</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENICÀSSIM/BENICASIM</municipio>
+      <nombre>TAURO</nombre>
+      <num_bungalos>12</num_bungalos>
+      <num_parcelas>131</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>67</plaza_bungalos>
+      <plazas>424</plazas>
+      <plazas_parcelas>357</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000024-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964392967</telefono>
+      <web>http://www.campingtauro.com</web>
+    </Camping>
+    <Camping>
+      <cp>12560</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>028</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>PD Villarroig s/n</direccion>
+      <email>info@campingazahar.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>20/06/1990</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENICÀSSIM/BENICASIM</municipio>
+      <nombre>AZAHAR</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>198</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>658</plazas>
+      <plazas_parcelas>658</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000051-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964303196</telefono>
+      <web>http://www.campingazahar.es</web>
+    </Camping>
+    <Camping>
+      <cp>12560</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>028</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AV GRAN AVENIDA JAIME I 267</direccion>
+      <email>avenida@campingsbenciasim.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>02/11/1971</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENICÀSSIM/BENICASIM</municipio>
+      <nombre>GRAN AVENIDA</nombre>
+      <num_bungalos>5</num_bungalos>
+      <num_parcelas>90</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>19</plaza_bungalos>
+      <plazas>317</plazas>
+      <plazas_parcelas>255</plazas_parcelas>
+      <plazas_libre_acampada>43</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000010-CS</signatura>
+      <sup_libre_acampada>703</sup_libre_acampada>
+      <telefono>964101023</telefono>
+      <web>http://www.campingsbenicasim.com/es/campingavendia</web>
+    </Camping>
+    <Camping>
+      <cp>12560</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>028</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>C SIGALERO 34</direccion>
+      <email>info@campingleflorida.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>31/07/1967</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENICÀSSIM/BENICASIM</municipio>
+      <nombre>FLORIDA</nombre>
+      <num_bungalos>9</num_bungalos>
+      <num_parcelas>71</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>40</plaza_bungalos>
+      <plazas>265</plazas>
+      <plazas_parcelas>186</plazas_parcelas>
+      <plazas_libre_acampada>39</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000019-CS</signatura>
+      <sup_libre_acampada>825</sup_libre_acampada>
+      <telefono>964 392 385</telefono>
+      <web>http://www.campingflorida.es</web>
+    </Camping>
+    <Camping>
+      <cp>12570</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>004</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CM CERVERA SN</direccion>
+      <email>gestion@aguipedra.es(administración), info@losolivoscampingpark.es (turístico)</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>02/07/2015</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALCALÀ DE XIVERT</municipio>
+      <nombre>LOS OLIVOS CAMPING PARK</nombre>
+      <num_bungalos>11</num_bungalos>
+      <num_parcelas>105</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>49</plaza_bungalos>
+      <plazas>331</plazas>
+      <plazas_parcelas>282</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000078-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>647908597</telefono>
+      <web>www.losolivoscampingpark.es</web>
+    </Camping>
+    <Camping>
+      <cp>12578</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>044</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>PARTIDA PARETES S/N</direccion>
+      <email>hector@eheuropa.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>22/06/2023</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CERVERA DEL MAESTRE</municipio>
+      <nombre>CAMPING CIUDAD DEL CICLISMO</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>10</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>36</plazas>
+      <plazas_parcelas>30</plazas_parcelas>
+      <plazas_libre_acampada>6</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000085-CS</signatura>
+      <sup_libre_acampada>148</sup_libre_acampada>
+      <telefono>669754282</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>12579</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>004</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CM de l'atall - Alcossebre S/N</direccion>
+      <email>info@playatropicana.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>19/09/1977</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALCALÀ DE XIVERT</municipio>
+      <nombre>PLAYA TROPICANA</nombre>
+      <num_bungalos>83</num_bungalos>
+      <num_parcelas>393</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>518</plaza_bungalos>
+      <plazas>1448</plazas>
+      <plazas_parcelas>930</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000028-CS</signatura>
+      <sup_libre_acampada>3350</sup_libre_acampada>
+      <telefono>+ 34 964 41 24 63</telefono>
+      <web>http://www.campingplayatropicana.com</web>
+    </Camping>
+    <Camping>
+      <cp>12579</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>004</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>PD RIBAMAR, A 2km. CAMINO DE LAS FUENTES S/N</direccion>
+      <email>info@campingribamar.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>27/03/1990</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALCALÀ DE XIVERT</municipio>
+      <nombre>RIBAMAR</nombre>
+      <num_bungalos>41</num_bungalos>
+      <num_parcelas>112</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>164</plaza_bungalos>
+      <plazas>377</plazas>
+      <plazas_parcelas>213</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000056-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964761601</telefono>
+      <web>http://www.campingribamar.com</web>
+    </Camping>
+    <Camping>
+      <cp>12579</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>004</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR ALCOSSEBRE 85</direccion>
+      <email>lasmorerasac@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>11/08/2017</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALCALÀ DE XIVERT</municipio>
+      <nombre>LAS MORERAS AC</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>55</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>165</plazas>
+      <plazas_parcelas>165</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000080-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>657618636</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>12580</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>089</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>PD Villarroyos S/N</direccion>
+      <email>calidad.spanatura@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>21/11/2002</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PENÍSCOLA/PEÑÍSCOLA</municipio>
+      <nombre>SPA NATURA RESORT</nombre>
+      <num_bungalos>63</num_bungalos>
+      <num_parcelas>0</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>252</plaza_bungalos>
+      <plazas>486</plazas>
+      <plazas_parcelas>234</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000072-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964 475 480</telefono>
+      <web>http://www.spanaturaresort.com</web>
+    </Camping>
+    <Camping>
+      <cp>12580</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>027</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR N-340 km. 1046</direccion>
+      <email>info@campingalegria.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>04/12/1975</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BENICARLÓ</municipio>
+      <nombre>ALEGRIA DEL MAR</nombre>
+      <num_bungalos>23</num_bungalos>
+      <num_parcelas>49</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>118</plaza_bungalos>
+      <plazas>233</plazas>
+      <plazas_parcelas>78</plazas_parcelas>
+      <plazas_libre_acampada>37</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000026-CS</signatura>
+      <sup_libre_acampada>609</sup_libre_acampada>
+      <telefono>964470871</telefono>
+      <web>http://www.campingalegria.com</web>
+    </Camping>
+    <Camping>
+      <cp>12589</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>034</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CM Peñíscola-Càlig s/n</direccion>
+      <email>info@campingorangeraie.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>27/02/2012</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CÀLIG</municipio>
+      <nombre>CAMPING ORANGERAIE</nombre>
+      <num_bungalos>154</num_bungalos>
+      <num_parcelas>241</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>692</plaza_bungalos>
+      <plazas>1239</plazas>
+      <plazas_parcelas>261</plazas_parcelas>
+      <plazas_libre_acampada>286</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000076-CS</signatura>
+      <sup_libre_acampada>9512.34</sup_libre_acampada>
+      <telefono>(0034) 964 765 059</telefono>
+      <web>https://www.campingorangeraie.com</web>
+    </Camping>
+    <Camping>
+      <cp>12592</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>053</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AV MARE NOSTRUM S.S</direccion>
+      <email>info@3estrellasmediterraneo.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>22/04/1993</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CHILCHES/XILXES</municipio>
+      <nombre>TRES ESTRELLAS MEDITERRANEO</nombre>
+      <num_bungalos>66</num_bungalos>
+      <num_parcelas>188</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>268</plaza_bungalos>
+      <plazas>634</plazas>
+      <plazas_parcelas>366</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000058-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>655950821</telefono>
+      <web>https://www.tresestrellascampings.com/mediterraneo-castellon-valencia/</web>
+    </Camping>
+    <Camping>
+      <cp>12593</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>077</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CM Serratelles 95</direccion>
+      <email>info@campingmonmar.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>05/02/2001</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>MONCOFA</municipio>
+      <nombre>CAMPING MONMAR</nombre>
+      <num_bungalos>24</num_bungalos>
+      <num_parcelas>167</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>95</plaza_bungalos>
+      <plazas>524</plazas>
+      <plazas_parcelas>429</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000071-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964 58 85 92</telefono>
+      <web>http://www.campingmonmar.com</web>
+    </Camping>
+    <Camping>
+      <cp>12593</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>077</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR N-340, km. 4, Camí Cabres s/n</direccion>
+      <email>info@campinglosnaranjos.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>05/07/1994</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>MONCOFA</municipio>
+      <nombre>LOS NARANJOS</nombre>
+      <num_bungalos>49</num_bungalos>
+      <num_parcelas>202</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>219</plaza_bungalos>
+      <plazas>531</plazas>
+      <plazas_parcelas>312</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000064-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+34 964 58 03 37</telefono>
+      <web>https://www.campinglosnaranjos.com</web>
+    </Camping>
+    <Camping>
+      <cp>12594</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>085</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AV Barcelona - Veredea de la Didota s/n</direccion>
+      <email>info@campingdidota.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>01/06/1987</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ORPESA/OROPESA DEL MAR</municipio>
+      <nombre>DIDOTA</nombre>
+      <num_bungalos>21</num_bungalos>
+      <num_parcelas>133</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>84</plaza_bungalos>
+      <plazas>420</plazas>
+      <plazas_parcelas>336</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000048-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964319551</telefono>
+      <web>http://www.campingdidota.es</web>
+    </Camping>
+    <Camping>
+      <cp>12594</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>085</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CAMINO L'ATALL S.N</direccion>
+      <email>oasis@camping-oropesa.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>07/10/1991</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ORPESA/OROPESA DEL MAR</municipio>
+      <nombre>OASIS</nombre>
+      <num_bungalos>110</num_bungalos>
+      <num_parcelas>230</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>436</plaza_bungalos>
+      <plazas>796</plazas>
+      <plazas_parcelas>360</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000059-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>678 70 03 58</telefono>
+      <web>http://www.camping-oropesa.com</web>
+    </Camping>
+    <Camping>
+      <cp>12594</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>085</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>ANTONIO BOSQUE S/N</direccion>
+      <email>campingvoramar@hotmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/07/1983</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ORPESA/OROPESA DEL MAR</municipio>
+      <nombre>VORAMAR</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>121</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>363</plazas>
+      <plazas_parcelas>363</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000032-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964310206</telefono>
+      <web>http://www.campingvoramaroropesa.es</web>
+    </Camping>
+    <Camping>
+      <cp>12594</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>085</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>PD AMPLARIES S.N</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/04/1986</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ORPESA/OROPESA DEL MAR</municipio>
+      <nombre>KIVU</nombre>
+      <num_bungalos>10</num_bungalos>
+      <num_parcelas>96</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>17</plaza_bungalos>
+      <plazas>275</plazas>
+      <plazas_parcelas>258</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000045-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964319533</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>12595</cp>
+      <categoria>CINCO ESTRELLAS</categoria>
+      <cod_categoria>5e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>033</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AV  L'Atall 44</direccion>
+      <email>camping@bravoplaya.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>14/01/1997</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CABANES</municipio>
+      <nombre>BRAVOPLAYA</nombre>
+      <num_bungalos>109</num_bungalos>
+      <num_parcelas>612</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>472</plaza_bungalos>
+      <plazas>1981</plazas>
+      <plazas_parcelas>1509</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000066-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+34 964 319 744</telefono>
+      <web>https://www.bravoplaya.com</web>
+    </Camping>
+    <Camping>
+      <cp>12595</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>033</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AV Camí la L'Atall 19</direccion>
+      <email>info@campingtorrelasal.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>22/11/2012</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CABANES</municipio>
+      <nombre>CAMPING TORRE LA SAL</nombre>
+      <num_bungalos>14</num_bungalos>
+      <num_parcelas>166</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>61</plaza_bungalos>
+      <plazas>517</plazas>
+      <plazas_parcelas>456</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000077-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+34 964 319 596</telefono>
+      <web>http://www.campingtorrelasal.com</web>
+    </Camping>
+    <Camping>
+      <cp>12595</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>033</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CM L ATALL SN</direccion>
+      <email>campingmaria@hotmail.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>11/11/2011</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CABANES</municipio>
+      <nombre>CAMPING TORRE LA SAL MARIA</nombre>
+      <num_bungalos>23</num_bungalos>
+      <num_parcelas>123</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>93</plaza_bungalos>
+      <plazas>393</plazas>
+      <plazas_parcelas>300</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000075-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964319719</telefono>
+      <web>http://www.torrelasalmaria.com</web>
+    </Camping>
+    <Camping>
+      <cp>12596</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>117</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR DEL MAR-PLAYA TORRENOSTRA S.N</direccion>
+      <email>campingtorrenostra@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/07/1970</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>TORREBLANCA</municipio>
+      <nombre>TORRENOSTRA</nombre>
+      <num_bungalos>6</num_bungalos>
+      <num_parcelas>311</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>24</plaza_bungalos>
+      <plazas>939</plazas>
+      <plazas_parcelas>915</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000014-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964425037</telefono>
+      <web>http://www.campingtorrenostra.com</web>
+    </Camping>
+    <Camping>
+      <cp>12598</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>089</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CM ABELLERS S.N</direccion>
+      <email>campinglospinos@hotmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>16/10/1989</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PENÍSCOLA/PEÑÍSCOLA</municipio>
+      <nombre>LOS PINOS</nombre>
+      <num_bungalos>28</num_bungalos>
+      <num_parcelas>105</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>84</plaza_bungalos>
+      <plazas>315</plazas>
+      <plazas_parcelas>231</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000046-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964480379</telefono>
+      <web>http://www.campinglospinos.com</web>
+    </Camping>
+    <Camping>
+      <cp>12598</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>089</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR CS-501 Benicarló-Peñíscola, Km. 6</direccion>
+      <email>juanvicent@camping-eden.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>17/09/1990</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PENÍSCOLA/PEÑÍSCOLA</municipio>
+      <nombre>EL EDEN</nombre>
+      <num_bungalos>22</num_bungalos>
+      <num_parcelas>277</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>132</plaza_bungalos>
+      <plazas>897</plazas>
+      <plazas_parcelas>765</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000050-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>669353073</telefono>
+      <web>https://www.camping-eden.com</web>
+    </Camping>
+    <Camping>
+      <cp>12598</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>089</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AV estación 139</direccion>
+      <email>info@campingsoldor.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>17/11/1980</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PENÍSCOLA/PEÑÍSCOLA</municipio>
+      <nombre>SOL D'OR</nombre>
+      <num_bungalos>50</num_bungalos>
+      <num_parcelas>197</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>200</plaza_bungalos>
+      <plazas>775</plazas>
+      <plazas_parcelas>441</plazas_parcelas>
+      <plazas_libre_acampada>134</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000037-CS</signatura>
+      <sup_libre_acampada>3138</sup_libre_acampada>
+      <telefono>964 480 653</telefono>
+      <web>http://www.campingsoldor.com</web>
+    </Camping>
+    <Camping>
+      <cp>12598</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>089</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AV LA ESTACION 27</direccion>
+      <email>campingferrer@campingferrer.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/09/1978</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PENÍSCOLA/PEÑÍSCOLA</municipio>
+      <nombre>FERRER</nombre>
+      <num_bungalos>12</num_bungalos>
+      <num_parcelas>77</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>60</plaza_bungalos>
+      <plazas>294</plazas>
+      <plazas_parcelas>195</plazas_parcelas>
+      <plazas_libre_acampada>39</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000029-CS</signatura>
+      <sup_libre_acampada>621</sup_libre_acampada>
+      <telefono>964489223</telefono>
+      <web>http://www.campingferrer.com/</web>
+    </Camping>
+    <Camping>
+      <cp>12598</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>089</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>AZAGADOR DE LA CRUZ S.N</direccion>
+      <email>info@campingelcid.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>17/11/1980</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PENÍSCOLA/PEÑÍSCOLA</municipio>
+      <nombre>EL CID</nombre>
+      <num_bungalos>15</num_bungalos>
+      <num_parcelas>154</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>60</plaza_bungalos>
+      <plazas>477</plazas>
+      <plazas_parcelas>417</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000038-CS</signatura>
+      <sup_libre_acampada>1375</sup_libre_acampada>
+      <telefono>964480380</telefono>
+      <web>http://www.campingelcid.com</web>
+    </Camping>
+    <Camping>
+      <cp>12598</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>089</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR PEÑÍSCOLA-BENICARLÓ km. 3,6</direccion>
+      <email>info@campinglavolta.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>05/11/1976</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PENÍSCOLA/PEÑÍSCOLA</municipio>
+      <nombre>LA VOLTA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>118</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>354</plazas>
+      <plazas_parcelas>354</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000027-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>687650510</telefono>
+      <web>http://www.campinglavolta.com</web>
+    </Camping>
+    <Camping>
+      <cp>12598</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>089</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR PEÑÍSCOLA-BENICARLÓ km. 6,8</direccion>
+      <email>campingvizmar@hotmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>03/06/1980</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PENÍSCOLA/PEÑÍSCOLA</municipio>
+      <nombre>VIZMAR</nombre>
+      <num_bungalos>4</num_bungalos>
+      <num_parcelas>139</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>16</plaza_bungalos>
+      <plazas>421</plazas>
+      <plazas_parcelas>405</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000031-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>964473439</telefono>
+      <web>http://campingvizmar.com</web>
+    </Camping>
+    <Camping>
+      <cp>12598</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>089</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR VIEJA PEÑISCOLA BENICARLÓ CV 140 POL. 5 PARC. 161</direccion>
+      <email>stopandgolarotonda@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>23/03/2023</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PENÍSCOLA/PEÑÍSCOLA</municipio>
+      <nombre>STOP AND GO LA ROTONDA DE PEÑÍSCOLA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>18</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>54</plazas>
+      <plazas_parcelas>54</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000083-CS</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>605308807</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>12599</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>093</cod_municipio>
+      <cod_provincia>12</cod_provincia>
+      <direccion>CR POBLA BENIFASSÀ KM 5</direccion>
+      <email>angel@moliabad.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>21/01/2003</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>POBLA DE BENIFASSÀ, LA</municipio>
+      <nombre>LA TINENÇA-MOLI L'ABAD</nombre>
+      <num_bungalos>36</num_bungalos>
+      <num_parcelas>68</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>83</plaza_bungalos>
+      <plazas>189</plazas>
+      <plazas_parcelas>96</plazas_parcelas>
+      <plazas_libre_acampada>10</plazas_libre_acampada>
+      <provincia>CASTELLÓN/CASTELLÓ</provincia>
+      <signatura>CV-CAM000073-CS</signatura>
+      <sup_libre_acampada>880</sup_libre_acampada>
+      <telefono>977713418</telefono>
+      <web>http://www.moliabad.com</web>
+    </Camping>
+    <Camping>
+      <cp>46012</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>250</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR El Saler km. 13</direccion>
+      <email>contacto@devesagardens.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>20/04/1977</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VALÈNCIA</municipio>
+      <nombre>DEVESA GARDENS</nombre>
+      <num_bungalos>56</num_bungalos>
+      <num_parcelas>144</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>224</plaza_bungalos>
+      <plazas>488</plazas>
+      <plazas_parcelas>264</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000026-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+34 961 611 136</telefono>
+      <web>http://www.devesagardens.com</web>
+    </Camping>
+    <Camping>
+      <cp>46012</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>250</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR Nazaret-Oliva, Km 6,9. Ctra.del Riu, 486</direccion>
+      <email>info@collvertcamping.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>01/07/1985</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VALÈNCIA</municipio>
+      <nombre>COLL-VERT</nombre>
+      <num_bungalos>25</num_bungalos>
+      <num_parcelas>140</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>100</plaza_bungalos>
+      <plazas>533</plazas>
+      <plazas_parcelas>345</plazas_parcelas>
+      <plazas_libre_acampada>88</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000035-V</signatura>
+      <sup_libre_acampada>2495</sup_libre_acampada>
+      <telefono>961830036</telefono>
+      <web>http://www.collvertcamping.com/</web>
+    </Camping>
+    <Camping>
+      <cp>46021</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>219</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PD ELS CASALS S/N</direccion>
+      <email>info@CampingNatura.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>20/04/1993</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>RUGAT</municipio>
+      <nombre>NATURA</nombre>
+      <num_bungalos>37</num_bungalos>
+      <num_parcelas>95</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>176</plaza_bungalos>
+      <plazas>350</plazas>
+      <plazas_parcelas>174</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000042-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962814166</telefono>
+      <web>http://www.campingnatura.com</web>
+    </Camping>
+    <Camping>
+      <cp>46117</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>070</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>C Universo s/n</direccion>
+      <email>valcampark@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>05/09/2013</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BÉTERA</municipio>
+      <nombre>VALENCIA CAMPER PARK</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>40</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>120</plazas>
+      <plazas_parcelas>120</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000056-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>(+34) 960 718 095</telefono>
+      <web>http://www.valenciacamperpark.com</web>
+    </Camping>
+    <Camping>
+      <cp>46118</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>228</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PUNTAR DE LES FORQUES</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>21/11/2024</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SERRA</municipio>
+      <nombre>1RESPIRO</nombre>
+      <num_bungalos>8</num_bungalos>
+      <num_parcelas>8</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>32</plaza_bungalos>
+      <plazas>32</plazas>
+      <plazas_parcelas>0</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000071-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono/>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>46135</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>009</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>C Puig de Santa María 14</direccion>
+      <email>info@campingnomadic.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>02/11/2020</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALBALAT DELS SORELLS</municipio>
+      <nombre>NOMADIC VALENCIA CAMPING CAR</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>33</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>99</plazas>
+      <plazas_parcelas>99</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000063-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>684 477 729</telefono>
+      <web>https://www.comunitatvalenciana.com/</web>
+    </Camping>
+    <Camping>
+      <cp>46165</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>076</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CAMINO DEL CEMENTERIO -PDA LA PALMERETA- 25</direccion>
+      <email>cturia_1@hotmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>06/07/1995</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BUGARRA</municipio>
+      <nombre>RIO TURIA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>38</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>114</plazas>
+      <plazas_parcelas>114</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000045-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>961660242</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>46177</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>247</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PD LOS QUIÑONES S/N</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>17/11/1995</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>TUÉJAR</municipio>
+      <nombre>HECU CAMPING</nombre>
+      <num_bungalos>26</num_bungalos>
+      <num_parcelas>180</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>168</plaza_bungalos>
+      <plazas>630</plazas>
+      <plazas_parcelas>462</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000046-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>961635042</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>46310</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>254</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>C Paso del Rey 2</direccion>
+      <email>info@slowlifecamping.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/07/2007</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VENTA DEL MORO</municipio>
+      <nombre>SLOW LIFE CAMPING VENTA DEL MORO</nombre>
+      <num_bungalos>11</num_bungalos>
+      <num_parcelas>25</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>44</plaza_bungalos>
+      <plazas>86</plazas>
+      <plazas_parcelas>42</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000054-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>680 628 636</telefono>
+      <web>https://campingventadelmoro.com</web>
+    </Camping>
+    <Camping>
+      <cp>46317</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>259</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR Embalse de Contreras km 3</direccion>
+      <email>rural@kikopark.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>17/01/2003</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>VILLARGORDO DEL CABRIEL</municipio>
+      <nombre>KIKO PARK RURAL</nombre>
+      <num_bungalos>41</num_bungalos>
+      <num_parcelas>117</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>197</plaza_bungalos>
+      <plazas>425</plazas>
+      <plazas_parcelas>228</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000053-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962 139 082</telefono>
+      <web>https://kikoparkrural.com</web>
+    </Camping>
+    <Camping>
+      <cp>46400</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>105</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>AV El Racó 25</direccion>
+      <email>info@santamartacamping.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>29/01/1963</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>CULLERA</municipio>
+      <nombre>SANTA MARTA</nombre>
+      <num_bungalos>34</num_bungalos>
+      <num_parcelas>160</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>146</plaza_bungalos>
+      <plazas>657</plazas>
+      <plazas_parcelas>378</plazas_parcelas>
+      <plazas_libre_acampada>133</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000003-V</signatura>
+      <sup_libre_acampada>3341</sup_libre_acampada>
+      <telefono>96 172 14 40</telefono>
+      <web>https://www.santamartacamping.com</web>
+    </Camping>
+    <Camping>
+      <cp>46410</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>235</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PY SUECA- MARENY DE  BARRAQUETES</direccion>
+      <email>info@barraquetes.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/06/1980</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SUECA</municipio>
+      <nombre>LES BARRAQUETES</nombre>
+      <num_bungalos>34</num_bungalos>
+      <num_parcelas>241</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>136</plaza_bungalos>
+      <plazas>930</plazas>
+      <plazas_parcelas>621</plazas_parcelas>
+      <plazas_libre_acampada>173</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000029-V</signatura>
+      <sup_libre_acampada>3757</sup_libre_acampada>
+      <telefono>961760723</telefono>
+      <web>http://www.barraquetes.com</web>
+    </Camping>
+    <Camping>
+      <cp>46419</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>235</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR del Saler (LES PALMERETES) km. 23</direccion>
+      <email>campingpalmeres@yahoo.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>11/07/1988</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SUECA</municipio>
+      <nombre>LAS PALMERAS</nombre>
+      <num_bungalos>354</num_bungalos>
+      <num_parcelas>795</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>1575</plaza_bungalos>
+      <plazas>2898</plazas>
+      <plazas_parcelas>1323</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000037-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>961770861</telefono>
+      <web>http://www.campingpalmeras.com</web>
+    </Camping>
+    <Camping>
+      <cp>46420</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>235</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR NAZARET-OLIVA ( EL PERELLO) km. 21</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>22/12/1970</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SUECA</municipio>
+      <nombre>SAN PASCUAL</nombre>
+      <num_bungalos>61</num_bungalos>
+      <num_parcelas>150</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>205</plaza_bungalos>
+      <plazas>472</plazas>
+      <plazas_parcelas>267</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000019-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>961770273</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>46500</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>220</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CM Malvarrosa - Carrer del Cigne S/N</direccion>
+      <email>camalva@live.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>16/10/1989</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>SAGUNT/SAGUNTO</municipio>
+      <nombre>MALVARROSA DE CORINTO</nombre>
+      <num_bungalos>92</num_bungalos>
+      <num_parcelas>154</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>276</plaza_bungalos>
+      <plazas>515</plazas>
+      <plazas_parcelas>186</plazas_parcelas>
+      <plazas_libre_acampada>53</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000039-V</signatura>
+      <sup_libre_acampada>1757</sup_libre_acampada>
+      <telefono>962 608 906</telefono>
+      <web>http://www.malvacorinto.com</web>
+    </Camping>
+    <Camping>
+      <cp>46530</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>205</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CAMI RIU TURIA  -PLAYA DE PUÇOL- S.N</direccion>
+      <email>info@campingpuzol.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/10/1981</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PUÇOL</municipio>
+      <nombre>PUZOL</nombre>
+      <num_bungalos>22</num_bungalos>
+      <num_parcelas>122</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>88</plaza_bungalos>
+      <plazas>388</plazas>
+      <plazas_parcelas>300</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000031-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>961421527</telefono>
+      <web>http://www.campingpuzol.com</web>
+    </Camping>
+    <Camping>
+      <cp>46530</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>205</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PY DE PUÇOL, Carrer Riu Túria, 1,</direccion>
+      <email>info@campingvalencia.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>11/09/1981</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PUÇOL</municipio>
+      <nombre>VALENCIA</nombre>
+      <num_bungalos>123</num_bungalos>
+      <num_parcelas>370</num_parcelas>
+      <periodo>[Semana Santa]</periodo>
+      <plaza_bungalos>563</plaza_bungalos>
+      <plazas>1304</plazas>
+      <plazas_parcelas>741</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000032-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>(+34) 961 46 58 06</telefono>
+      <web>https://www.campingvalencia.com</web>
+    </Camping>
+    <Camping>
+      <cp>46590</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>120</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR Estivella-Valencia, Camí del Pla S/N</direccion>
+      <email>info@sierra-calderona.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>20/03/2002</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ESTIVELLA</municipio>
+      <nombre>SIERRA CALDERONA CAMPING INTEGRAL</nombre>
+      <num_bungalos>5</num_bungalos>
+      <num_parcelas>104</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>20</plaza_bungalos>
+      <plazas>384</plazas>
+      <plazas_parcelas>297</plazas_parcelas>
+      <plazas_libre_acampada>67</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000050-V</signatura>
+      <sup_libre_acampada>1784</sup_libre_acampada>
+      <telefono>96 213 65 89</telefono>
+      <web>https://www.sierra-calderona.com</web>
+    </Camping>
+    <Camping>
+      <cp>46623</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>144</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PD LAS ROCHAS S/N</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>22/02/1994</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>JARAFUEL</municipio>
+      <nombre>LAS JARAS</nombre>
+      <num_bungalos>4</num_bungalos>
+      <num_parcelas>87</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>16</plaza_bungalos>
+      <plazas>353</plazas>
+      <plazas_parcelas>249</plazas_parcelas>
+      <plazas_libre_acampada>88</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000043-V</signatura>
+      <sup_libre_acampada>3269</sup_libre_acampada>
+      <telefono>961899084</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>46710</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>113</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR PLAYA DAIMUS s/n</direccion>
+      <email>info@campinglaaventuraplaya.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>17/09/1990</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>DAIMÚS</municipio>
+      <nombre>L' AVENTURA</nombre>
+      <num_bungalos>2</num_bungalos>
+      <num_parcelas>139</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>8</plaza_bungalos>
+      <plazas>419</plazas>
+      <plazas_parcelas>411</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000040-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962818330</telefono>
+      <web>www.campinglaaventuraplaya.es</web>
+    </Camping>
+    <Camping>
+      <cp>46711</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>168</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>AV DEL MAR, S/N. - PDA. DEL RACÓ S/N</direccion>
+      <email>camping@coelius.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>01/06/1984</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>MIRAMAR</municipio>
+      <nombre>COELIUS</nombre>
+      <num_bungalos>43</num_bungalos>
+      <num_parcelas>151</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>154</plaza_bungalos>
+      <plazas>478</plazas>
+      <plazas_parcelas>324</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000034-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962819574</telefono>
+      <web>http://www.coelius.com</web>
+    </Camping>
+    <Camping>
+      <cp>46715</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>037</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>C Metge Panella 1</direccion>
+      <email>kmzerocamperpark@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>26/03/2015</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ALQUERIA DE LA COMTESSA, L'</municipio>
+      <nombre>CAMPER PARK KM ZERO</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>28</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>84</plazas>
+      <plazas_parcelas>84</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000060-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962898239</telefono>
+      <web>http://www.kmzerocamperpark.com</web>
+    </Camping>
+    <Camping>
+      <cp>46728</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>131</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CAMI MERAVELLES COVA NEGRA, 127</direccion>
+      <email>info@campinglaescalada.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>28/04/2023</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>GANDIA</municipio>
+      <nombre>LA ESCALADA</nombre>
+      <num_bungalos>24</num_bungalos>
+      <num_parcelas>143</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>100</plaza_bungalos>
+      <plazas>457</plazas>
+      <plazas_parcelas>357</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000067-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>619101616</telefono>
+      <web>www.campinglaescaladagandia.com</web>
+    </Camping>
+    <Camping>
+      <cp>46730</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>143</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PO 5. PARCELA 175, 176 Y 7004 S/N</direccion>
+      <email>xeracocampers@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>22/07/2020</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>XERACO</municipio>
+      <nombre>XERACO CAMPERS</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>93</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>279</plazas>
+      <plazas_parcelas>279</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000062-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962 129 203</telefono>
+      <web>http://www.xeracocampers.com</web>
+    </Camping>
+    <Camping>
+      <cp>46730</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>131</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>AV del Grau 142</direccion>
+      <email>lalqueria@lalqueria.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>22/05/1980</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>GANDIA</municipio>
+      <nombre>L'ALQUERIA</nombre>
+      <num_bungalos>135</num_bungalos>
+      <num_parcelas>271</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>469</plaza_bungalos>
+      <plazas>1169</plazas>
+      <plazas_parcelas>408</plazas_parcelas>
+      <plazas_libre_acampada>292</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000027-V</signatura>
+      <sup_libre_acampada>6007</sup_libre_acampada>
+      <telefono>+34 96 284 04 70</telefono>
+      <web>https://www.lalqueria.com</web>
+    </Camping>
+    <Camping>
+      <cp>46730</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>131</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PY Gandia-Cmno. Assagador de Morant S/N</direccion>
+      <email>info@campinglanaranja.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>01/06/1983</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>GANDIA</municipio>
+      <nombre>LA NARANJA</nombre>
+      <num_bungalos>7</num_bungalos>
+      <num_parcelas>62</num_parcelas>
+      <periodo>No especificado</periodo>
+      <plaza_bungalos>31</plaza_bungalos>
+      <plazas>254</plazas>
+      <plazas_parcelas>165</plazas_parcelas>
+      <plazas_libre_acampada>58</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000033-V</signatura>
+      <sup_libre_acampada>1669</sup_libre_acampada>
+      <telefono>962841616</telefono>
+      <web>http://campinglanaranja.com</web>
+    </Camping>
+    <Camping>
+      <cp>46758</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>046</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PD Falaguera pgo.4 pcla 294 s/n</direccion>
+      <email>info@campinglafalaguera.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>08/05/2002</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BARX</municipio>
+      <nombre>LA FALAGUERA</nombre>
+      <num_bungalos>27</num_bungalos>
+      <num_parcelas>73</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>114</plaza_bungalos>
+      <plazas>244</plazas>
+      <plazas_parcelas>138</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000051-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962807571</telefono>
+      <web>http://www.campinglafalaguera.com</web>
+    </Camping>
+    <Camping>
+      <cp>46760</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>238</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>C Del Garbí Sector 17</direccion>
+      <email>campingcarlafinca@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>08/10/2014</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>TAVERNES DE LA VALLDIGNA</municipio>
+      <nombre>CAMPING CAR LA FINCA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>45</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>135</plazas>
+      <plazas_parcelas>135</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000058-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>640257292</telefono>
+      <web>campingcarlafinca.com</web>
+    </Camping>
+    <Camping>
+      <cp>46770</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>143</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>AV DE LA MOTA 24</direccion>
+      <email>info@campingsanvicente.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>07/10/1964</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>XERACO</municipio>
+      <nombre>SAN VICENTE</nombre>
+      <num_bungalos>17</num_bungalos>
+      <num_parcelas>76</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>64</plaza_bungalos>
+      <plazas>241</plazas>
+      <plazas_parcelas>177</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000006-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>+34 962 88 81 88</telefono>
+      <web>https://campingsanvicente.com</web>
+    </Camping>
+    <Camping>
+      <cp>46780</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>181</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>C Assagador de Carro 2</direccion>
+      <email>info@kikopark.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/07/1965</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>OLIVA</municipio>
+      <nombre>KIKO PARK</nombre>
+      <num_bungalos>3</num_bungalos>
+      <num_parcelas>179</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>9</plaza_bungalos>
+      <plazas>580</plazas>
+      <plazas_parcelas>528</plazas_parcelas>
+      <plazas_libre_acampada>43</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000009-V</signatura>
+      <sup_libre_acampada>1083</sup_libre_acampada>
+      <telefono>96 285 09 05</telefono>
+      <web>https://kikopark.com</web>
+    </Camping>
+    <Camping>
+      <cp>46780</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>181</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR N-332-Partida Aigua Morta km. 186</direccion>
+      <email>camping-ole@camping-ole.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>03/07/1965</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>OLIVA</municipio>
+      <nombre>OLE</nombre>
+      <num_bungalos>56</num_bungalos>
+      <num_parcelas>382</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>200</plaza_bungalos>
+      <plazas>1178</plazas>
+      <plazas_parcelas>978</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000008-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962857517</telefono>
+      <web>http://www.camping-ole.com</web>
+    </Camping>
+    <Camping>
+      <cp>46780</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>181</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR N-332, Km. 209. Partida Aigua Morta</direccion>
+      <email>info@campingpepe.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>28/09/1970</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>OLIVA</municipio>
+      <nombre>PEPE</nombre>
+      <num_bungalos>74</num_bungalos>
+      <num_parcelas>213</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>270</plaza_bungalos>
+      <plazas>687</plazas>
+      <plazas_parcelas>417</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000018-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962857519</telefono>
+      <web>http://www.campingpepe.com</web>
+    </Camping>
+    <Camping>
+      <cp>46780</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>181</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PD Aigua Morta s/n</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>28/09/1970</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>OLIVA</municipio>
+      <nombre>BON DIA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>35</num_parcelas>
+      <periodo>[Verano]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>116</plazas>
+      <plazas_parcelas>105</plazas_parcelas>
+      <plazas_libre_acampada>11</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000017-V</signatura>
+      <sup_libre_acampada>270</sup_libre_acampada>
+      <telefono>962857500</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>46780</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>181</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PD Devesa s/n</direccion>
+      <email>riomar@campingriomar.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>03/10/1967</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>OLIVA</municipio>
+      <nombre>RIO MAR</nombre>
+      <num_bungalos>12</num_bungalos>
+      <num_parcelas>89</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>67</plaza_bungalos>
+      <plazas>313</plazas>
+      <plazas_parcelas>231</plazas_parcelas>
+      <plazas_libre_acampada>15</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000012-V</signatura>
+      <sup_libre_acampada>204</sup_libre_acampada>
+      <telefono>962854097</telefono>
+      <web>http://www.campingriomar.com</web>
+    </Camping>
+    <Camping>
+      <cp>46780</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>181</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PD Rapdells s/n</direccion>
+      <email>campingazul@ctv.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/05/1989</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>OLIVA</municipio>
+      <nombre>AZUL</nombre>
+      <num_bungalos>46</num_bungalos>
+      <num_parcelas>156</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>224</plaza_bungalos>
+      <plazas>554</plazas>
+      <plazas_parcelas>330</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000036-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962854106</telefono>
+      <web>http://www.campingazul.com</web>
+    </Camping>
+    <Camping>
+      <cp>46780</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>181</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PD Rapdells s/n</direccion>
+      <email>info@eurocamping-es.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>27/09/1967</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>OLIVA</municipio>
+      <nombre>EUROCAMPING</nombre>
+      <num_bungalos>23</num_bungalos>
+      <num_parcelas>320</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>99</plaza_bungalos>
+      <plazas>1027</plazas>
+      <plazas_parcelas>891</plazas_parcelas>
+      <plazas_libre_acampada>37</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000010-V</signatura>
+      <sup_libre_acampada>930</sup_libre_acampada>
+      <telefono>962854098</telefono>
+      <web>http://www.eurocamping-es.com</web>
+    </Camping>
+    <Camping>
+      <cp>46780</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>181</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>AVDA . LLAURADORS, 20-26</direccion>
+      <email>administracion@kikopark.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/09/2024</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>OLIVA</municipio>
+      <nombre>KIKO PARK 3</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>14</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>42</plazas>
+      <plazas_parcelas>42</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000069-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962850905</telefono>
+      <web>WWW.KIKOPARK.COM</web>
+    </Camping>
+    <Camping>
+      <cp>46780</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>181</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>C/ ASSAGADOR DE CARRO, 2</direccion>
+      <email>ADMINISTRACION@KIKOPARK.COM</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>27/05/2024</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>OLIVA</municipio>
+      <nombre>KIKOPARK II</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>10</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>30</plazas>
+      <plazas_parcelas>30</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000068-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>654023374</telefono>
+      <web>www.kikopark.com</web>
+    </Camping>
+    <Camping>
+      <cp>46780</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>181</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>C/ FIGUERA 16</direccion>
+      <email>administracion@kikopark.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>30/09/2024</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>OLIVA</municipio>
+      <nombre>KIKOPARK 4</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>2</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>6</plazas>
+      <plazas_parcelas>6</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000070-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962850905</telefono>
+      <web>www.kikopark.com</web>
+    </Camping>
+    <Camping>
+      <cp>46800</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>145</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CM SANT ANTONI. POL 13-PARC 20-21 ABC S/N</direccion>
+      <email>info@residenciavacacionalxativa.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>18/02/2022</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>XÀTIVA</municipio>
+      <nombre>RESIDENCIA VACACIONAL XATIVA</nombre>
+      <num_bungalos>9</num_bungalos>
+      <num_parcelas>42</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>36</plaza_bungalos>
+      <plazas>135</plazas>
+      <plazas_parcelas>99</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000064-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>658428302</telefono>
+      <web>residenciavacacionalxativa.es</web>
+    </Camping>
+    <Camping>
+      <cp>46810</cp>
+      <categoria>CUATRO ESTRELLAS</categoria>
+      <cod_categoria>4e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>118</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR MOIXENT-NAVALON CV-589 km. 11,3</direccion>
+      <email>teularet@naturjove.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>05/02/1998</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ENGUERA</municipio>
+      <nombre>EL TEULARET</nombre>
+      <num_bungalos>5</num_bungalos>
+      <num_parcelas>66</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>20</plaza_bungalos>
+      <plazas>203</plazas>
+      <plazas_parcelas>183</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000047-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962217188</telefono>
+      <web>www.naturjove.es</web>
+    </Camping>
+    <Camping>
+      <cp>46810</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>118</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PARAJE PISCINA MUNICIPAL S/N</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>08/02/2001</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ENGUERA</municipio>
+      <nombre>LA PINADA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>19</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>62</plazas>
+      <plazas_parcelas>57</plazas_parcelas>
+      <plazas_libre_acampada>5</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000049-V</signatura>
+      <sup_libre_acampada>102</sup_libre_acampada>
+      <telefono>962224503</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>46810</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>118</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>FINCA EL TEJARICO S/N</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/07/2007</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ENGUERA</municipio>
+      <nombre>SIERRA NATURA</nombre>
+      <num_bungalos>13</num_bungalos>
+      <num_parcelas>64</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>27</plaza_bungalos>
+      <plazas>234</plazas>
+      <plazas_parcelas>153</plazas_parcelas>
+      <plazas_libre_acampada>54</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000055-V</signatura>
+      <sup_libre_acampada>2368</sup_libre_acampada>
+      <telefono>962253026</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>46811</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>118</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR NAVALON, CASAS DE REQUENA Km 3</direccion>
+      <email>montes@loscarasoles.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>14/01/2003</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ENGUERA</municipio>
+      <nombre>LOS CARASOLES</nombre>
+      <num_bungalos>51</num_bungalos>
+      <num_parcelas>111</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>207</plaza_bungalos>
+      <plazas>387</plazas>
+      <plazas_parcelas>180</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000052-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962253044</telefono>
+      <web>http://www.loscarasoles.com</web>
+    </Camping>
+    <Camping>
+      <cp>46820</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>039</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>PARAJE DEL LAGO DE ANNA S/N</direccion>
+      <email/>
+      <estado>ACTIVO</estado>
+      <fecha_alta>25/08/1998</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>ANNA</municipio>
+      <nombre>ALBUFERA DE ANNA</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>85</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>255</plazas>
+      <plazas_parcelas>255</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000048-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>962210563</telefono>
+      <web/>
+    </Camping>
+    <Camping>
+      <cp>46823</cp>
+      <categoria>DOS ESTRELLAS</categoria>
+      <cod_categoria>2e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>179</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>UR PLAYAMONTE 2. POL 11. PARC 162-161-157 162</direccion>
+      <email>campingplayamonte@gmail.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>08/07/2022</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>NAVARRÉS</municipio>
+      <nombre>PLAYAMONTE</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>34</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>102</plazas>
+      <plazas_parcelas>102</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000066-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>667797931</telefono>
+      <web>http://www.campingplayamonte.com</web>
+    </Camping>
+    <Camping>
+      <cp>46880</cp>
+      <categoria>TRES ESTRELLAS</categoria>
+      <cod_categoria>3e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>072</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>CR BOCAIRENT-ALCOI km. 9</direccion>
+      <email>info@campingmariola.com</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>11/04/1994</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>BOCAIRENT</municipio>
+      <nombre>MARIOLA</nombre>
+      <num_bungalos>28</num_bungalos>
+      <num_parcelas>198</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>112</plaza_bungalos>
+      <plazas>737</plazas>
+      <plazas_parcelas>510</plazas_parcelas>
+      <plazas_libre_acampada>115</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000044-V</signatura>
+      <sup_libre_acampada>3421</sup_libre_acampada>
+      <telefono>962135160</telefono>
+      <web>http://www.campingmariola.com</web>
+    </Camping>
+    <Camping>
+      <cp>46891</cp>
+      <categoria>UNA ESTRELLA</categoria>
+      <cod_categoria>1e</cod_categoria>
+      <cod_estado>A</cod_estado>
+      <cod_modalidad>CAM</cod_modalidad>
+      <cod_municipio>189</cod_municipio>
+      <cod_provincia>46</cod_provincia>
+      <direccion>AV Riuet (Paraje Natural Font de Sis) S/N</direccion>
+      <email>info@fontdesis.es</email>
+      <estado>ACTIVO</estado>
+      <fecha_alta>15/05/2015</fecha_alta>
+      <modalidad>CAMPING</modalidad>
+      <municipio>PALOMAR, EL</municipio>
+      <nombre>FONT DE SIS</nombre>
+      <num_bungalos>0</num_bungalos>
+      <num_parcelas>54</num_parcelas>
+      <periodo>[Anual]</periodo>
+      <plaza_bungalos>0</plaza_bungalos>
+      <plazas>162</plazas>
+      <plazas_parcelas>162</plazas_parcelas>
+      <plazas_libre_acampada>0</plazas_libre_acampada>
+      <provincia>VALENCIA/VALÈNCIA</provincia>
+      <signatura>CV-CAM000061-V</signatura>
+      <sup_libre_acampada>0</sup_libre_acampada>
+      <telefono>677579034</telefono>
+      <web>fontdesis.es</web>
+    </Camping>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>004</COD_MUNICIPIO>
+      <COD_PROVINCIA>03</COD_PROVINCIA>
+      <CP>03569</CP>
+      <DIRECCION>POLIGONO 5 PARCELA 82</DIRECCION>
+      <EMAIL>abiricollewelyn@gmail.com</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>15/11/2024</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>AIGÜES</MUNICIPIO>
+      <NOMBRE>CASITA CAMINO VIEJO</NOMBRE>
+      <PERIODO>[Anual]</PERIODO>
+      <PROVINCIA>ALICANTE/ALACANT</PROVINCIA>
+      <SIGNATURA>CV-AFP000008-A</SIGNATURA>
+      <WEB/>
+      <TELEFONO>615176587</TELEFONO>
+    </finca>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>034</COD_MUNICIPIO>
+      <COD_PROVINCIA>12</COD_PROVINCIA>
+      <CP>12589</CP>
+      <DIRECCION>PD BOVALAR (POLIGONO 15 PARCELA 36) SN</DIRECCION>
+      <EMAIL>info@nochesdecalig.com</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>24/03/2022</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>CÀLIG</MUNICIPIO>
+      <NOMBRE>NOCHES DE CALIG</NOMBRE>
+      <PERIODO>[Anual]</PERIODO>
+      <PROVINCIA>CASTELLÓN/CASTELLÓ</PROVINCIA>
+      <SIGNATURA>CV-AFP000009-CS</SIGNATURA>
+      <WEB>http://www.nochesdecalig.com</WEB>
+      <TELEFONO>617611376</TELEFONO>
+    </finca>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>064</COD_MUNICIPIO>
+      <COD_PROVINCIA>03</COD_PROVINCIA>
+      <CP>03150</CP>
+      <DIRECCION>CM Rural Los Ñíguez 99</DIRECCION>
+      <EMAIL>jillanddaniel@myway.com</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>30/09/2009</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>DOLORES</MUNICIPIO>
+      <NOMBRE>SHEPPARD'S REST</NOMBRE>
+      <PERIODO>[Verano]</PERIODO>
+      <PROVINCIA>ALICANTE/ALACANT</PROVINCIA>
+      <SIGNATURA>CV-AFP000001-A</SIGNATURA>
+      <WEB/>
+      <TELEFONO>617003492</TELEFONO>
+    </finca>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>072</COD_MUNICIPIO>
+      <COD_PROVINCIA>46</COD_PROVINCIA>
+      <CP>46880</CP>
+      <DIRECCION>PD HUERTA 22</DIRECCION>
+      <EMAIL>sharonjolin@hotmail.com</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>31/07/2012</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>BOCAIRENT</MUNICIPIO>
+      <NOMBRE>VILLA CARMEN</NOMBRE>
+      <PERIODO>[Anual]</PERIODO>
+      <PROVINCIA>VALENCIA/VALÈNCIA</PROVINCIA>
+      <SIGNATURA>CV-AFP000003-V</SIGNATURA>
+      <WEB/>
+      <TELEFONO>650202156</TELEFONO>
+    </finca>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>093</COD_MUNICIPIO>
+      <COD_PROVINCIA>03</COD_PROVINCIA>
+      <CP>03660</CP>
+      <DIRECCION>PD PARAJE HORNA BAJA E-12</DIRECCION>
+      <EMAIL>casas-@casasruralesalicante.net</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>31/01/2013</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>NOVELDA</MUNICIPIO>
+      <NOMBRE>COMPLEJO DE TURISMO RURAL MONTE REPLANA</NOMBRE>
+      <PERIODO>[Anual]</PERIODO>
+      <PROVINCIA>ALICANTE/ALACANT</PROVINCIA>
+      <SIGNATURA>CV-AFP000002-A</SIGNATURA>
+      <WEB>http://casasruralesalicante.net</WEB>
+      <TELEFONO>654084656</TELEFONO>
+    </finca>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>099</COD_MUNICIPIO>
+      <COD_PROVINCIA>12</COD_PROVINCIA>
+      <CP>12320</CP>
+      <DIRECCION>CR CERVERA KM 0.8</DIRECCION>
+      <EMAIL>info@toneleriaartesana.com</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>03/04/2023</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>SANT JORDI/SAN JORGE</MUNICIPIO>
+      <NOMBRE>TIERRA DE ARTE</NOMBRE>
+      <PERIODO>[Anual]</PERIODO>
+      <PROVINCIA>CASTELLÓN/CASTELLÓ</PROVINCIA>
+      <SIGNATURA>CV-AFP000010-CS</SIGNATURA>
+      <WEB>http://tierradearte.es</WEB>
+      <TELEFONO>629196163</TELEFONO>
+    </finca>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>103</COD_MUNICIPIO>
+      <COD_PROVINCIA>12</COD_PROVINCIA>
+      <CP>12184</CP>
+      <DIRECCION>PD  CARRASCAL POLIGONO 2 PARCELA 112 SN</DIRECCION>
+      <EMAIL>cuentosvivos@gmail.com</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>06/02/2014</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>SERRATELLA, LA</MUNICIPIO>
+      <NOMBRE>ECO-ACAMPADA CUENTOS VIVOS</NOMBRE>
+      <PERIODO>No especificado</PERIODO>
+      <PROVINCIA>CASTELLÓN/CASTELLÓ</PROVINCIA>
+      <SIGNATURA>CV-AFP000007-CS</SIGNATURA>
+      <WEB>http://www.javierans.com</WEB>
+      <TELEFONO>679183966</TELEFONO>
+    </finca>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>124</COD_MUNICIPIO>
+      <COD_PROVINCIA>03</COD_PROVINCIA>
+      <CP>03579</CP>
+      <DIRECCION>PD Seguró S/N</DIRECCION>
+      <EMAIL>info@fincaseguro.com</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>03/04/2023</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>SELLA</MUNICIPIO>
+      <NOMBRE>AFP FINCA SEGURÓ I</NOMBRE>
+      <PERIODO>[Anual]</PERIODO>
+      <PROVINCIA>ALICANTE/ALACANT</PROVINCIA>
+      <SIGNATURA>CV-AFP000004-A</SIGNATURA>
+      <WEB>http://fincaseguro.com</WEB>
+      <TELEFONO>696433666</TELEFONO>
+    </finca>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>124</COD_MUNICIPIO>
+      <COD_PROVINCIA>03</COD_PROVINCIA>
+      <CP>03579</CP>
+      <DIRECCION>PD Seguró S/N</DIRECCION>
+      <EMAIL>info@fincaseguro.com</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>03/04/2023</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>SELLA</MUNICIPIO>
+      <NOMBRE>AFP FINCA SEGURÓ II</NOMBRE>
+      <PERIODO>[Anual]</PERIODO>
+      <PROVINCIA>ALICANTE/ALACANT</PROVINCIA>
+      <SIGNATURA>CV-AFP000005-A</SIGNATURA>
+      <WEB>http://fincaseguro.com</WEB>
+      <TELEFONO>696433666</TELEFONO>
+    </finca>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>124</COD_MUNICIPIO>
+      <COD_PROVINCIA>03</COD_PROVINCIA>
+      <CP>03579</CP>
+      <DIRECCION>PD Seguró S/N</DIRECCION>
+      <EMAIL>info@fincaseguro.com</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>03/04/2023</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>SELLA</MUNICIPIO>
+      <NOMBRE>AFP FINCA SEGURÓ III</NOMBRE>
+      <PERIODO>[Anual]</PERIODO>
+      <PROVINCIA>ALICANTE/ALACANT</PROVINCIA>
+      <SIGNATURA>CV-AFP000006-A</SIGNATURA>
+      <WEB>http://fincaseguro.com</WEB>
+      <TELEFONO>696433666</TELEFONO>
+    </finca>
+    <finca>
+      <COD_ESTADO>A</COD_ESTADO>
+      <COD_MODALIDAD>AFP</COD_MODALIDAD>
+      <COD_MUNICIPIO>239</COD_MUNICIPIO>
+      <COD_PROVINCIA>46</COD_PROVINCIA>
+      <CP>46622</CP>
+      <DIRECCION>CASICAS DE PIERA 265</DIRECCION>
+      <EMAIL>info@alojamientoruralpalaz</EMAIL>
+      <ESTADO>ACTIVO</ESTADO>
+      <FECHA_ALTA>24/05/2005</FECHA_ALTA>
+      <MODALIDAD>ACAMPADA FP</MODALIDAD>
+      <MUNICIPIO>TERESA DE COFRENTES</MUNICIPIO>
+      <NOMBRE>ZONA DE ACAMPADA EN PALAZ</NOMBRE>
+      <PERIODO>No especificado</PERIODO>
+      <PROVINCIA>VALENCIA/VALÈNCIA</PROVINCIA>
+      <SIGNATURA>CV-AFP000002-V</SIGNATURA>
+      <WEB>http://www.alojamientoruralpalaz.com</WEB>
+      <TELEFONO>689018503</TELEFONO>
+    </finca>
+  </listado>
+  </Informacion>

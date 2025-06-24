@@ -1,0 +1,50 @@
+Práctica 7 de bases de datos.
+
+EJERCICIO 1 XPATH.
+
+1) //PERIODO -> Nos muestra todos los años del fichero.
+2) /Rows -> Nos muestra todas las lineas del fichero.
+3) /Rows/Row -> Nos muestra todas las líneas que están en el bloque Row.
+4) //DPTO_SALUD_VALENCIA_LAFE -> Nos muestra todas las interrupciones dadas en el Hospital La Fe.
+5) //Row[1] -> Nos muestra la primera fila.
+6) //Row[2]/PROV_VALENCIA -> Nos muestra la segunda fila de las interrupciones en la provincia de Valencia.
+7) //Row[PERIODO="2011"] -> Nos muestra todas las interrupciones ocurridas en el 2011.
+8) //Row[PERIODO="2012"]/DPTO_SALUD_DENIA -> Nos muestra todas las interrupciones ocurridas en el 2012 en Denia.
+9) //Row[PERIODO="2013"]/DPTO_SALUD_VALENCIA_HOSPITAL_GENERAL -> Nos muestra todas las interrupciones de 2013 dadas en valencia.
+10) //Row[last()] -> Nos muestra la última fila; la que hemos añadido.
+11) //Row[PROV_ALICANTE>10] -> Nos muestra las filas donde las interrupciones han ocurrido en Alicante y además son superiores a 10.
+12) //Row[DPTO_SALUD_XATIVA_ONTINYENT<3] -> Nos muestra las filas donde las interrupciones han ocurrido en Ontinyent y además son inferiores a 3.
+13) count(//Row) -> Cuenta el número total de registros.
+14) count(//Row[PROV_CASTELLON<7]) -> Cuenta el número total de registros de la provincia de Castellón y que además estos sean menor a 7.
+15) sum(//Row/DPTO_SALUD_RIBERA) -> Suma todos los registros del departamento de salud de Ribera.
+16) //Row[1] | //Row[DPTO_SALUD_DENIA<6] -> Muestra de la primera fila, las filas donde el departamento de salud es el de Denia y el número de interrupciones es menor a 6.
+17) //Row[PERIODO="2014"]/PROV_VALENCIA + //Row[PERIODO="2014"]/PROV_CASTELLON -> suma las filas del periodo 2014 en la provincia de valencia y el periodo de 2014 en la provincia de Castellón.
+18) 100 * //Row[PERIODO="2014"]/DPTO_SALUD_GANDIA div 
+//Row[PERIODO="2014"]/DPTO_SALUD_VALENCIA_HOSPITAL_GENERAL ->  Calcula el porcentaje que representan las incidencias de interrupciones del departamento de Salud de Gandia en 2014 con respecto a las del departamento de Salud de Valencia del Hospital General en ese mismo año. Para ello, divide el número de incidencias de Gandia entre el de Valencia y multiplica el resultado por 100. 
+19) //PERIODO/text() -> Nos muestra los años en los que se están evaluando las interrupciones.
+20) ¿Qué pasaría al eliminar un año del fichero XML? -> Eliminamos un registro.
+
+EJERCICIO 2 ESCRIBIR LA EXPRESION EN XPATH
+
+21) Muestra todos los nombres de los campings. -> ///nombre/text()
+22) Muestra todos los datos del primer camping. -> //Camping[1]
+23) Muestra todos los datos del último camping. -> //Camping[last()]
+24) Muestra todos los datos del camping con ese nombre. -> //Camping[nombre = "FONT DE SIS"]
+25) Muestra el email del camping ALANNIA COSTABLANCA. -> //Camping[nombre = "ALANNIA COSTABLANCA"]/email
+26) Nombres de campings registrados con mas de 3 mil plazas. -> //Camping[plazas > 3000]
+27) Campings con categoría cinco estrellas. -> //Camping[categoría = "CINCO ESTRELLAS"]
+28) Campings cuyo campo email no está vacío. -> //Camping[email != ""]
+29) Total de campings listados. -> count(//Camping)
+30) Suma total de plazas entre todos los campings. -> sum(///plazas)
+31) Multiplica las plazas de LA MARINA CAMPING & RESORT por 5. -> 5* //Camping[nombre = "LA MARINA CAMPING & RESORT"]/plazas
+32) Campings en Santapola -> //Camping[email != ""]
+33) Cuenta los campings con categoría "CINCO ESTRELLAS". -> count(//Camping[categoria = "CINCO ESTRELLAS"])
+34) ¿Cuántos campings hay en GUARDAMAR DEL SEGURA con más de 500 plazas? -> count(//Camping[municipio = "GUARDAMAR DEL SEGURA" and plazas > 500])
+35) ¿Cuál es el número total de alojamientos (campings y fincas) en el XML? -> sum(//Camping/plazas) + count(//finca)
+36) ¿Cuál es el número total de plazas disponibles solo en campings? -> sum(///plazas)
+37) ¿Cuál es el número total de fincas registradas en el XML? -> count(//finca)
+38) ¿Cuál es el número total de alojamientos entre campings y fincas?-> sum(//Camping/plazas) + count(//finca)
+39) ¿Qué porcentaje del total representan los campings y las fincas? -> count(//Camping) div (count(//Camping) + count(//finca)) * 100
+                                                                     -> count(//finca) div (count(//Camping) + count(//finca)) * 10
+
+40) Campings con mas bungalos que parcelas -> //Camping[num_bungalos > num_parcelas]/nombre
